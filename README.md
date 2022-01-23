@@ -10,7 +10,7 @@ The dataset that was used is COVID-19 Radiography Database is provided in this l
 The distribution of the dataset was shown in the following graph.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/57035819/150677688-01ae851c-da2e-4d23-82ca-715dc613efb0.png"  width="800"/>
+  <img src="https://user-images.githubusercontent.com/57035819/150677688-01ae851c-da2e-4d23-82ca-715dc613efb0.png"  width="400"/>
 </p>
 
 ### Implementation
