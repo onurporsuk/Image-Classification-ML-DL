@@ -28,6 +28,7 @@ There were four approaches to classify mammographic images. Each one is performe
 </p>
 
 
-
-## Author
+## Author and Note
 - [honourrable](https://github.com/honourrable)
+
+All the details were not mentioned and if anyone is interested in getting to know moer about the study, they can freely contact me. I'd happily talk about it.
