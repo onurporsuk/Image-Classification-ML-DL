@@ -16,7 +16,10 @@ To implement this project, Python was used with many libraries with Tensorflow a
 
 There were four approaches to classify mammographic images. Each one is performed by using the most appropriate algorithms and implementation configurations. Necessary research and fine-tuning operations were done properly to enhance the system's performance. The four approaches were listed below in a figure.
 
-<img src="https://user-images.githubusercontent.com/57035819/150677218-e7e92486-0cbf-45a8-9b62-cc7b20bb5a9c.png"  width="400"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57035819/150677218-e7e92486-0cbf-45a8-9b62-cc7b20bb5a9c.png"  width="400"/>
+</p>
+
 
 ## Author
 - [honourrable](https://github.com/honourrable)
