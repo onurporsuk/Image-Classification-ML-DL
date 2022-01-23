@@ -27,8 +27,11 @@ There were four approaches to classify mammographic images. Each one is performe
   <img src="https://user-images.githubusercontent.com/57035819/150677218-e7e92486-0cbf-45a8-9b62-cc7b20bb5a9c.png"  width="400"/>
 </p>
 
+### Conclusion
+
+In this research and implementation project, it was aimed to work on a medical image dataset with traditional image processing techniques and deep learning method. After reading all the images, a crucial step preprocessing was done to have a proper shape of the data to process. Then, by extracting features of the images with different methods, it was desired to have a great representation of the images in machine side. In order to achieve the goal, the study was splitted into four main parts. In each one, the relevant operations are completed with research of efficient ways of implementation. Also, additional studies such as machine learning performance enhancement with grid search, fine tuning, visualization and analysis of dataset were carried on to be able to make the system work better. Comparison of methods has got significance in computer science projects and in this study, all the methods were compared with each other, and they were being improved with different approaches.
 
 ## Author and Note
 - [honourrable](https://github.com/honourrable)
 
-This Read Me file contains a quick summary of the project and none the details were mentioned. If anyone is interested in getting to know moer about the study, they can freely contact me. I'd happily talk about it.
+This Read Me file contains a quick summary of the project and none of the details were mentioned. If anyone is interested in getting to know moer about the study, they can freely contact me. I'd happily talk about it.
