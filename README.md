@@ -34,4 +34,4 @@ In this research and implementation project, it was aimed to work on a medical i
 ## Author and Note
 - [honourrable](https://github.com/honourrable)
 
-This Read Me file contains a quick summary of the project and none of the details were mentioned. If anyone is interested in getting to know moer about the study, they can freely contact me. I'd happily talk about it.
+This Read Me file contains a quick summary of the project and not all of the details were mentioned. If anyone is interested in getting to know moer about the study, they can freely contact me. I'd happily talk about it.
