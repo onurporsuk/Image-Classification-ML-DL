@@ -1,5 +1,9 @@
 # Image-Classification-ML-DL
 
+### Conference Paper
+
+The ones who may be interested in the study's paper can find using [this link](https://ieeexplore.ieee.org/document/9925524).
+
 ### Subject
 
 This graduation thesis was completed with a lot of reasearch, development and effort. The goal was detection of lung diseases with both machine and deep learning models. For deep learning, Convolutional Neural Networks were used to achieve the desired classficiation job. 
