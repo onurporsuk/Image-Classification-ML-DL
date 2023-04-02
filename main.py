@@ -14,7 +14,7 @@ import cv2
 import os
 
 
-DATADIR = "C:/Users/Onur/PycharmProjects/ImageClassification/dataset"
+DATADIR = ""
 CATEGORIES = ["COVID", "Lung_Opacity", "Normal", "Viral Pneumonia"]
 IMAGE_SIZE = 100
 
